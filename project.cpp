@@ -1,6 +1,3 @@
-//Kalyani Pramod Tekade 
-//ASU ID - 1230526221
-
 #include <cstdlib>
 #include <iostream>
 #include "execute.h"
